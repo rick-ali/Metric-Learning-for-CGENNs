@@ -1,6 +1,6 @@
 # Metric Learning for Clifford Group Equivariant Neural Networks
 
-**Authors:** Riccardo Ali, Paulina Kulyte
+**Authors:** Riccardo Ali, Paulina Kulytė, Haitz Sáez de Ocáriz Borde, Pietro Liò
 
 ## Abstract
 This study introduces a method to enhance Clifford Group Equivariant Neural Networks (CGENNs) by incorporating metric learning, particularly focusing on transitioning from static, diagonal metrics to dynamic, learnable metrics through the eigenvalue decomposition. CGENNs have been recognized for their capability to process complex data representations effectively, leveraging the mathematical framework of Clifford Algebras. However, these networks often face challenges in higher-dimensional spaces where the metrics are undefined a priori. Addressing this, our method not only optimizes a distance function directly from the dataset but also extends the network's capabilities to employ non-diagonal metrics through eigenvalue decomposition. The method allows for the accurate modeling of data relationships, acknowledging the intricate correlations in real-world data that diagonal metrics typically oversimplify. The results obtained show improved performance in simulating complex physical systems and analyzing high-dimensional datasets, advancing the creation of neural networks adept at comprehending complex data relationships.
